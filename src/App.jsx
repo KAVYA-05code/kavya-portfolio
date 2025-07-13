@@ -31,7 +31,7 @@ const App = () => {
       <section id="home" className="flex flex-col md:flex-row items-center justify-center h-[70vh] text-center px-5 gap-10" data-aos="fade-up">
         <div className="flex-shrink-0">
           <img 
-            src="./pic my.png"
+            src="/pic.jpg"
             alt="Profile" 
             className="w-48 h-48 object-cover rounded-full border-4 border-purple-400 shadow-lg" 
           />
